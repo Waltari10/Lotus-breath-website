@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://valtterilaine.github.io/lotus-breath-website/</loc>
     <lastmod>2026-04-05</lastmod>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valtterilaine.github.io/lotus-breath-website/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://valtterilaine.github.io/lotus-breath-website/ja/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valtterilaine.github.io/lotus-breath-website/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valtterilaine.github.io/lotus-breath-website/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valtterilaine.github.io/lotus-breath-website/es/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://valtterilaine.github.io/lotus-breath-website/ko/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valtterilaine.github.io/lotus-breath-website/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://valtterilaine.github.io/lotus-breath-website/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://valtterilaine.github.io/lotus-breath-website/nl/" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://valtterilaine.github.io/lotus-breath-website/sv/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valtterilaine.github.io/lotus-breath-website/tr/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://valtterilaine.github.io/lotus-breath-website/pl/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://valtterilaine.github.io/lotus-breath-website/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://valtterilaine.github.io/lotus-breath-website/vi/" />
+    <xhtml:link rel="alternate" hreflang="nb" href="https://valtterilaine.github.io/lotus-breath-website/nb/" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://valtterilaine.github.io/lotus-breath-website/da/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="https://valtterilaine.github.io/lotus-breath-website/fi/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://valtterilaine.github.io/lotus-breath-website/ro/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://valtterilaine.github.io/lotus-breath-website/cs/" />
+    <xhtml:link rel="alternate" hreflang="ms" href="https://valtterilaine.github.io/lotus-breath-website/ms/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://valtterilaine.github.io/lotus-breath-website/th/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valtterilaine.github.io/lotus-breath-website/" />
   </url>
   <url>
     <loc>https://valtterilaine.github.io/lotus-breath-website/privacy/</loc>
@@ -15,4 +38,44 @@
     <lastmod>2026-04-05</lastmod>
     <priority>0.5</priority>
   </url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/ja/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/ja/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/de/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/de/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/fr/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/fr/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/es/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/es/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/ko/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/ko/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/pt-BR/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/pt-BR/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/it/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/it/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/nl/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/nl/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/sv/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/sv/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/tr/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/tr/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/pl/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/pl/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/id/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/id/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/vi/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/vi/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/nb/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/nb/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/da/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/da/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/fi/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/fi/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/ro/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/ro/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/cs/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/cs/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/ms/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/ms/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/th/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://valtterilaine.github.io/lotus-breath-website/th/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
 </urlset>
