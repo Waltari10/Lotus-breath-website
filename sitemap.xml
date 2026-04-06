@@ -6,6 +6,8 @@
     <lastmod>2026-04-05</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://valtterilaine.github.io/lotus-breath-website/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valtterilaine.github.io/lotus-breath-website/" />
+    <!-- Other languages disabled for now
     <xhtml:link rel="alternate" hreflang="ja" href="https://valtterilaine.github.io/lotus-breath-website/ja/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://valtterilaine.github.io/lotus-breath-website/de/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://valtterilaine.github.io/lotus-breath-website/fr/" />
@@ -26,7 +28,7 @@
     <xhtml:link rel="alternate" hreflang="cs" href="https://valtterilaine.github.io/lotus-breath-website/cs/" />
     <xhtml:link rel="alternate" hreflang="ms" href="https://valtterilaine.github.io/lotus-breath-website/ms/" />
     <xhtml:link rel="alternate" hreflang="th" href="https://valtterilaine.github.io/lotus-breath-website/th/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://valtterilaine.github.io/lotus-breath-website/" />
+    -->
   </url>
   <url>
     <loc>https://valtterilaine.github.io/lotus-breath-website/privacy/</loc>
@@ -38,6 +40,7 @@
     <lastmod>2026-04-05</lastmod>
     <priority>0.5</priority>
   </url>
+  <!-- Other language URLs disabled for now
   <url><loc>https://valtterilaine.github.io/lotus-breath-website/ja/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://valtterilaine.github.io/lotus-breath-website/ja/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
   <url><loc>https://valtterilaine.github.io/lotus-breath-website/de/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
@@ -78,4 +81,5 @@
   <url><loc>https://valtterilaine.github.io/lotus-breath-website/ms/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
   <url><loc>https://valtterilaine.github.io/lotus-breath-website/th/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://valtterilaine.github.io/lotus-breath-website/th/support/</loc><lastmod>2026-04-05</lastmod><priority>0.4</priority></url>
+  -->
 </urlset>
